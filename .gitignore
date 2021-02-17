@@ -1,0 +1,5 @@
+assets
+.vscode
+__pycache__
+passwords.csv
+test.py

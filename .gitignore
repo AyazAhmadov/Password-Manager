@@ -1,5 +1,11 @@
-assets
+classes
 .vscode
 __pycache__
 passwords.csv
 test.py
+*.key
+main_window_backup.ui
+main1.py
+ui_edit_form.py
+ui
+__init__.py
